@@ -1,0 +1,82 @@
+.result-container {
+    font-family: 'PT Sans', sans-serif;
+    background-color: whitesmoke;
+    width: 30%;
+    margin: 2% auto;
+    border-radius: 10px;
+    padding: 1%;
+}
+
+.city-name {
+    font-family: 'Bitter', serif;
+    font-size: 140%;
+}
+
+hr {
+    border: none;
+    width: 20%;
+    border-top: 2px dotted #333;
+    margin: 4px auto;
+}
+
+
+.weather-icon {
+    width: 10%;
+    background-color: rgb(5, 1, 1);
+    border-radius: 50%;
+}
+
+.weather-icon {
+    width: 100px;
+}
+
+td {
+    padding: 0;
+    width: 10%;
+}
+
+.info-container,
+.temp {
+    margin: auto;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+.temp {
+    font-size: 250%;
+    font-family: 'Playfair Display', serif;
+}
+
+.info {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.max,
+.min {
+    font-size: 115%;
+}
+
+.max-temp,
+.min-temp {
+    font-family: 'Playfair Display', serif;
+}
+
+.info,
+.max,
+.min,
+.feelsLike,
+.humidity {
+    margin: 0;
+}
+
+.feelsLike,
+.humidity {
+    padding-top: 10%;
+    font-family: 'Playfair Display', serif;
+    font-size: 250%;
+}
+
+.table-two-span {font-family: 'Signika Negative', sans-serif;
+    font-size: 100%;
+}
